@@ -1,0 +1,21 @@
+h1 {
+    text-align: center;
+}
+
+.right {
+    float: right;
+    margin: 0 0 10px 5px;
+}
+
+
+#button1 {
+    background-color: palevioletred;
+}
+
+#button2 {
+    background-color: rgb(147, 147, 255);
+}
+
+#button3 {
+    background-color: green;
+}
